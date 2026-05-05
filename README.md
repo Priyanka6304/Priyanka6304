@@ -1,6 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Priyanka Sankati👋
 
-I am learning Cloud, DevOps, AWS, Docker, and Git.
+I am an aspiring Cloud & DevOps Engineer focused on AWS, Docker, and CI/CD.  
+I enjoy building scalable and automated infrastructure.
 
 ## 🚀 Skills I am learning
 
@@ -11,13 +12,17 @@ I am learning Cloud, DevOps, AWS, Docker, and Git.
 - 🐧 Linux
 - 🔁 CI/CD
 
-## 🛠️ Tools
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-green)
+## 🛠️ Tools & Technologies
+
+- AWS | Docker | Git | GitHub  
+- Linux | Jenkins | Ansible  
+- CI/CD | Infrastructure Automation
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Priyanka6304&show_icons=true&theme=radical)
+
 
 ## 📌 Current Focus
 
